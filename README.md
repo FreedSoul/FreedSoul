@@ -1,10 +1,15 @@
 ### Hi, I'm matt 👋 🌠
 
-🏹 I’m currently developing different projects.(poke app - infusion-website)
+🏹 I’m currently developing different projects.(infusion-website)
+
 🗡 I’m currently learning new technologies.(typescript)
+
 🌿 How to reach me: mattwork07@gmail.com
-🔥 Portfolio: workfolio-lac.vercel.app
+
+🔥 Portfolio: [My Portofolio](workfolio-lac.vercel.app)
+
 🥓 Hobbies: walk, exercise, dance
+
 <!--
 **FreedSoul/FreedSoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
