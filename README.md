@@ -6,7 +6,7 @@
 
 🌿 How to reach me: mattwork07@gmail.com
 
-🔥 Portfolio: [My Portofolio](workfolio-lac.vercel.app)
+🔥 Portfolio: [My Portofolio](https://workfolio-lac.vercel.app)
 
 🥓 Hobbies: walk, exercise, dance
 
