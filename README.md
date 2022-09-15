@@ -1,8 +1,8 @@
 ### Hi, I'm matt 👋 🌠
 
-🏹 I’m currently developing different projects.(infusion-website)
+🏹 I’m currently developing this project.[infusion-website]
 
-🗡 I’m currently learning new technologies.(typescript)
+🗡 I’m currently learning new technologies.[typescript]
 
 🌿 How to reach me: mattwork07@gmail.com
 
