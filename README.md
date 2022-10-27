@@ -10,6 +10,8 @@
 
 🥓 Hobbies: walk, exercise, dance
 
+![](https://komarev.com/ghpvc/?username=FreedSoul&color=yellow)
+
 <!--
 **FreedSoul/FreedSoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
