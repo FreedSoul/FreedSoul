@@ -2,7 +2,7 @@
 
 🏹 I’m currently developing this project.[infusion-website]
 
-🗡 I’m currently learning new technologies.[typescript]
+🗡 I’m currently learning new technologies.[Java- Springboot]
 
 🌿 How to reach me: mattwork07@gmail.com
 
