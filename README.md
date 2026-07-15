@@ -1,8 +1,8 @@
 ### Hi, I'm matt 👋 🌠
 
-🏹 I’m currently developing this project.[infusion-website]
+🏗️ I’m currently rebuilding this project.[infusion-website]
 
-🗡 I’m currently learning new technologies.[Java- Springboot]
+🗡 I’m currently pursuing the certification.[AWS - Solutions Architect Associate]
 
 🌿 How to reach me: mattwork07@gmail.com
 
